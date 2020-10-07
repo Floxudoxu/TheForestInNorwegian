@@ -6,6 +6,18 @@ How to add the Norwegian translation:
 
 3. Open the folder to "The Forest".
 
-4. While in the folder to the game, drag and drop the translation into "lang".
+4. In the game folder, drag and drop the translation into "lang".
 
 5. Have fun, and enjoy the game in Norwegian!
+-----------------------------------------------------------------------------------
+Korleis leggje til den norske omsetjinga:
+
+1. Gå inn i Steam-mappa di.
+
+2. Finn og opne "steamapps" i Steam-mappa, so opnar du mappa kalla "common".
+
+3. Opne mappa til "The Forest".
+
+4. I mappa til spelet, so finn du og slepp fila med omsetjinga inn i "lang". 
+
+5. Ha det moro, og kos deg med spelet på norsk!
