@@ -10,7 +10,7 @@ How to add the Norwegian translation:
 
 5. Have fun, and enjoy the game in Norwegian!
 -----------------------------------------------------------------------------------
-Korleis leggje til den norske omsetjinga:
+Korleis ein legg til den norske omsetjinga:
 
 1. Gå inn i Steam-mappa di.
 
