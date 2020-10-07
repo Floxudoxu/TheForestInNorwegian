@@ -8,4 +8,4 @@ How to add the Norwegian translation:
 
 4. While in the folder to the game, drag and drop the translation into "lang".
 
-5. Enjoy the game in Norwegian!
+5. Have fun, and enjoy the game in Norwegian!
